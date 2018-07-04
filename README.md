@@ -1,6 +1,14 @@
 # predictive-maintainance
 
 ### Papers:
+* Performance Benchmarking and Analysis of Prognostic Methods for CMAPSS Datasets: <br>
+https://www.phmsociety.org/sites/phmsociety.org/files/phm_submission/2014/ijphm_14_014.pdf
+* Major Challenges in Prognostics: Study on Benchmarking Prognostics Datasets: 
+http://ftp.phmsociety.org/sites/phmsociety.org/files/phm_submission/2012/phmce_12_004.pdf
+* Remaining Useful Life Prediction of Gas Turbine Engine using Autoregressive Model:
+https://www.matec-conferences.org/articles/matecconf/pdf/2017/45/matecconf_ses2017_04014.pdf
+* System Failures of Offshore Gas Turbine Engines in Maintenance Perspective: <br>
+https://www.sciencedirect.com/science/article/pii/S2405896316324740
 * NEXT GENERATION CONDITION BASED PREDICTIVE MAINTENANCE:  <br>
 http://conferences.chalmers.se/index.php/SPS/SPS14/paper/viewFile/1742/414
 * A Survey of Predictive Modelling under Imbalanced Distributions: <br>
@@ -23,6 +31,8 @@ https://pure.qub.ac.uk/portal/files/17844756/machine.pdf
 * deloitte: https://www2.deloitte.com/content/dam/Deloitte/de/Documents/deloitte-analytics/Deloitte_Predictive-Maintenance_PositionPaper.pdf
 * MindIT: http://www.remenergy.it/admin/wp-content/uploads/08-REM2018_Bonfietti_MindIT.pdf
 
+### Blogs:
+* https://www.svds.com/getting-started-predictive-maintenance-models/
 
 ### Code Refs:
 * aircraft: https://github.com/Samimust/predictive-maintenance
